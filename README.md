@@ -23,7 +23,7 @@ Sistema de chat em tempo real com criptografia end-to-end, desenvolvido com Node
 ### 🖥️ Front-end
 - 📱 **React** com **Material-UI**
 
-Autores
+Autores: 
 Delcia Cassaveca
 Isaac Hossi 
 Nicolau Munhona
